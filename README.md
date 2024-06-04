@@ -1,11 +1,11 @@
 ## Olá, meu nome é Henrique
+
+<!--
 <div>
   <a href="https://github.com/Henrique0112">
   <img height = "140em" src="https://github-readme-stats.vercel.app/api?username=Henrique0112&show_icons=true&theme=tokyonight"/>
   <img height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0112&layout=compact&theme=tokyonight"/> 
 </div>
-
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
